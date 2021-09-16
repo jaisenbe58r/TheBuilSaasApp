@@ -1,6 +1,6 @@
 DEBUG = True
 
-SERVER_NAME = 'localhost:8000'
+SERVER_NAME = '138.68.84.204:8000'
 SECRET_KEY = 'insecurekeyfordev'
 
 # Flask-Mail.
