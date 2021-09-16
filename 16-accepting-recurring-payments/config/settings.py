@@ -6,7 +6,7 @@ from celery.schedules import crontab
 DEBUG = True
 LOG_LEVEL = 'DEBUG'  # CRITICAL / ERROR / WARNING / INFO / DEBUG
 
-SERVER_NAME = 'localhost:8000'
+SERVER_NAME = '138.68.84.204:8000'
 SECRET_KEY = 'insecurekeyfordev'
 
 # Flask-Mail.
