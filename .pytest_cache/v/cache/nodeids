@@ -1,0 +1,5 @@
+[
+  "08-testing-and-code-quality/snakeeyes/tests/page/test_views.py::TestPage::test_home_page",
+  "08-testing-and-code-quality/snakeeyes/tests/page/test_views.py::TestPage::test_terms_page",
+  "08-testing-and-code-quality/snakeeyes/tests/page/test_views.py::TestPage::test_privacy_page"
+]

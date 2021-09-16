@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "08-testing-and-code-quality"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
