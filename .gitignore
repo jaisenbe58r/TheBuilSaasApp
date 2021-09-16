@@ -52,6 +52,6 @@ celerybeat*
 instance/settings.py
 
 # Course ignores.
-notes.epub
-notes.mobi
-notes.pdf
+# notes.epub
+# notes.mobi
+# notes.pdf
